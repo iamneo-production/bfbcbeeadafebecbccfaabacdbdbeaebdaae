@@ -1,7 +1,5 @@
 package utility;
 
-package model;
-
 public class AccountDetails{
     
     private String accountType;
