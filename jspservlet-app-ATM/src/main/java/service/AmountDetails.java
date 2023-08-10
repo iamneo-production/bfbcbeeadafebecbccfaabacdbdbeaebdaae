@@ -19,3 +19,4 @@ public class AmountDetails implements InterfaceClass {
         return arg1;
     }
 }
+
