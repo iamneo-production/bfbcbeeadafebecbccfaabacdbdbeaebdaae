@@ -4,7 +4,6 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-import model.AccountDetails;
 import service.AmountDetails;
 
 public class TestAmountDetails {
