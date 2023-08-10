@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
         "spring app/src/main"
-    ]
+    ],
+    "java.configuration.updateBuildConfiguration": "disabled"
 }
